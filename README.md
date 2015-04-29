@@ -22,4 +22,4 @@
 
 	drawable.setLoadingState();
 
-####[New Blog](www.jinghaifeng.com)
+####[New Blog](http://www.jinghaifeng.com)
