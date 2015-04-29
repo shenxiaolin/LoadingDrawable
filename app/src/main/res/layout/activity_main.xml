@@ -10,16 +10,16 @@
         android:orientation="horizontal"
         android:layout_width="match_parent"
         android:gravity="center"
-        android:layout_height="100dp">
+        android:layout_height="80dp">
         <View
             android:id="@+id/success_v"
-            android:layout_width="80dp"
-            android:layout_height="80dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
             android:layout_marginRight="20dp"/>
         <View
             android:id="@+id/error_v"
-            android:layout_width="80dp"
-            android:layout_height="80dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
             android:layout_marginLeft="20dp"/>
         </LinearLayout>
     <Button
